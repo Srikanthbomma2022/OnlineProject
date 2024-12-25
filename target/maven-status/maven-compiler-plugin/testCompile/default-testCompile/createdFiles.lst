@@ -1,0 +1,5 @@
+com\obs\pages\NewAccountPage.class
+common\obs\utilities\RandomNumber.class
+com\obs\pages\AdminHomePage.class
+com\obs\common\StandardWaitTimes.class
+com\obs\base\BaseTest.class
